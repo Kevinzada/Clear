@@ -14,17 +14,29 @@ Capturas reais do painel, com a identificação pessoal ocultada. Clique nas ima
 
 [![Tela inicial do Clear](imagens/01-inicio.png)](imagens/01-inicio.png)
 
-| 🧰 2. Funções | 🧹 3. Limpeza |
-| --- | --- |
-| [![Funções do Clear](imagens/02-funcoes.png)](imagens/02-funcoes.png) | [![Área de limpeza](imagens/03-limpeza.png)](imagens/03-limpeza.png) |
+### 🧰 2. Funções:
 
-| 🗂️ 4. Seu espaço | 📂 5. Dados e análise de pacote |
-| --- | --- |
-| [![Organização de servidores e conversas](imagens/04-seu-espaco.png)](imagens/04-seu-espaco.png) | [![Análise do pacote de dados](imagens/05-dados.png)](imagens/05-dados.png) |
+[![Funções do Clear](imagens/02-funcoes.png)](imagens/02-funcoes.png)
 
-| 🎨 6. Temas e aparência | 💎 7. Nitro e insígnias |
-| --- | --- |
-| [![Temas e personalização](imagens/06-temas.png)](imagens/06-temas.png) | [![Nitro e insígnias](imagens/07-nitro-insignias.png)](imagens/07-nitro-insignias.png) |
+### 🧹 3. Limpeza:
+
+[![Área de limpeza](imagens/03-limpeza.png)](imagens/03-limpeza.png)
+
+### 🗂️ 4. Seu espaço:
+
+[![Organização de servidores e conversas](imagens/04-seu-espaco.png)](imagens/04-seu-espaco.png)
+
+### 📂 5. Dados e análise de pacote:
+
+[![Análise do pacote de dados](imagens/05-dados.png)](imagens/05-dados.png)
+
+### 🎨 6. Temas e aparência:
+
+[![Temas e personalização](imagens/06-temas.png)](imagens/06-temas.png)
+
+### 💎 7. Nitro e insígnias:
+
+[![Nitro e insígnias](imagens/07-nitro-insignias.png)](imagens/07-nitro-insignias.png)
 
 ## 📥 Baixar:
 
